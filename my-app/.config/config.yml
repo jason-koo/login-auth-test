@@ -5,7 +5,7 @@ orbs:
 
 jobs:
   run_tests:
-    working_directory: ~/my-app
+    working_directory: ~/login-auth-test/my-app
     docker:
       - image: circleci/node:10.16.3
     steps:
