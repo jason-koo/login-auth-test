@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"myappe021635b": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
